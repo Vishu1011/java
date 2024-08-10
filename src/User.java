@@ -9,7 +9,7 @@ public class User {
 
         n=sc.nextInt();
 
-        int[] array = new int[100];
+        int[] array = new int[n];
         System.out.println("Enter the elements of the array: ");
         for(int i=0; i<n; i++)
         {
